@@ -1,0 +1,30 @@
+{
+    "version":  "1.0.0",
+    "notes":  "Primera version publicada: estadisticas de partida, direcciones de ROM corregidas, actualizador integrado.",
+    "files":  [
+                  {
+                      "path":  "Prince.exe",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.0/Prince.exe",
+                      "sha256":  "8a5dde5e4818ac01e41bd39b7af4457c6af9eb0da14429934f615814005f604d",
+                      "size":  1017291
+                  },
+                  {
+                      "path":  "RMG-K.exe",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.0/RMG-K.exe",
+                      "sha256":  "f45ac0a8562825fed27c9cafa066ae6f1f3beb4df2c12d0c972336f7869645a6",
+                      "size":  6830986
+                  },
+                  {
+                      "path":  "Plugin/Audio/RMG-Audio.dll",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.0/RMG-Audio.dll",
+                      "sha256":  "f7b3b92e9017a7d661ae7397462791955f6693597b412d91326cd6f1de420f68",
+                      "size":  33840
+                  },
+                  {
+                      "path":  "ssb64asm.z64",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.0/ssb64asm.z64",
+                      "sha256":  "d3ba94e2cb3cc3770845d6ed42f0e4dab86f35336fc533f6cbd421494b5a59b9",
+                      "size":  65536000
+                  }
+              ]
+}
