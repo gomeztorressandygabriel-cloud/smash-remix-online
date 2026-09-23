@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "Casillas Grabar partida y Live Replay, boton Ver en vivo desde la pagina y cerrar sesion con clic derecho en tu nombre.",
+  "version": "1.0.5",
+  "notes": "Corrige el reporte de resultados (la v1.0.4 no los enviaba) y el envio del Live Replay a la pagina.",
   "files": [
     {
       "path": "Prince.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "RMG-K.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.4/RMG-K.exe",
-      "sha256": "236e817bd7200aecf834475007be39b789b3d1659a6a25fa5e9de0789b99a6a3",
-      "size": 6851356
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.5/RMG-K.exe",
+      "sha256": "c5d57f7662ba9baa784b7ad8074633af0bd05cfde1382af4d320cee006839bc1",
+      "size": 6851868
     },
     {
       "path": "Plugin/Audio/RMG-Audio.dll",
