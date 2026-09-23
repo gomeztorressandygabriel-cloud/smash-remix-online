@@ -1,12 +1,12 @@
 {
   "version": "1.0.3",
-  "notes": "Partidas amistosas, modo Team 2v2, configuracion grafica/sonido/controles desde el launcher y Team en vivo en la pagina.",
+  "notes": "Partidas amistosas, modo Team 2v2, boton Configuracion del juego (graficos/sonido/controles) en el launcher y Team en vivo en la pagina.",
   "files": [
     {
       "path": "Prince.exe",
       "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.3/Prince.exe",
-      "sha256": "f730cfc38b9aaa4451a04bb119dd2ad3c70a7b4aefc3f4a706c930ae96f0ae4d",
-      "size": 1088306
+      "sha256": "0026c0eeadd1ca8f30ca316bcf0e24c8c23c30077a555d32f148c8ae35233e5d",
+      "size": 1094170
     },
     {
       "path": "RMG-K.exe",
