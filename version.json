@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "notes": "Solo pierde quien llega a 0 vidas: al reiniciar una partida o acabarse el tiempo ya no se asigna derrota.",
+  "version": "1.0.7",
+  "notes": "Prince busca actualizaciones al abrir y las instala solo antes de conectar.",
   "files": [
     {
       "path": "Prince.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.4/Prince.exe",
-      "sha256": "a990cbb0094f886a58476a3400cbec3732d7aa08089c59d509ba7f353ef92b91",
-      "size": 1124903
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.7/Prince.exe",
+      "sha256": "4e612b844a3035ede3172fe3b884492c3862eb96356c35e8a6316c246cc81502",
+      "size": 1128288
     },
     {
       "path": "RMG-K.exe",
