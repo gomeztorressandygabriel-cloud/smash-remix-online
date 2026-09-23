@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "notes": "Corrige el reporte de resultados (la v1.0.4 no los enviaba) y el envio del Live Replay a la pagina.",
+  "version": "1.0.6",
+  "notes": "Solo pierde quien llega a 0 vidas: al reiniciar una partida o acabarse el tiempo ya no se asigna derrota.",
   "files": [
     {
       "path": "Prince.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "RMG-K.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.5/RMG-K.exe",
-      "sha256": "c5d57f7662ba9baa784b7ad8074633af0bd05cfde1382af4d320cee006839bc1",
-      "size": 6851868
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.6/RMG-K.exe",
+      "sha256": "f23f0edec8cb42563edb5dd63d7666c039dc2a651ab16aeb38eafa83c0daad82",
+      "size": 6850332
     },
     {
       "path": "Plugin/Audio/RMG-Audio.dll",
