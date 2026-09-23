@@ -1,0 +1,30 @@
+{
+  "version": "1.0.3",
+  "notes": "Partidas amistosas, modo Team 2v2, configuracion grafica/sonido/controles desde el launcher y Team en vivo en la pagina.",
+  "files": [
+    {
+      "path": "Prince.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.3/Prince.exe",
+      "sha256": "f730cfc38b9aaa4451a04bb119dd2ad3c70a7b4aefc3f4a706c930ae96f0ae4d",
+      "size": 1088306
+    },
+    {
+      "path": "RMG-K.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.3/RMG-K.exe",
+      "sha256": "ab79f893f9e5632e181679cfd86ae6546a328328ae2833d0f4ce24c4f84192bf",
+      "size": 6845497
+    },
+    {
+      "path": "Plugin/Audio/RMG-Audio.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.3/RMG-Audio.dll",
+      "sha256": "00680ce1ccc28b5a28896ff456618e128b46eda25b8e067451754a62782af796",
+      "size": 34401
+    },
+    {
+      "path": "ssb64asm.z64",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.2/ssb64asm.z64",
+      "sha256": "d3ba94e2cb3cc3770845d6ed42f0e4dab86f35336fc533f6cbd421494b5a59b9",
+      "size": 65536000
+    }
+  ]
+}
