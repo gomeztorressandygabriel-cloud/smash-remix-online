@@ -1,28 +1,28 @@
 {
-    "version":  "1.0.1",
-    "notes":  "Rediseno del launcher: tarjeta de cuenta, insignias de rango con color, filas mas compactas, scroll suave y latido en los que estan jugando.",
+    "version":  "1.0.2",
+    "notes":  "Estructura de carpetas simplificada: en la raiz queda solo Prince.exe y todo lo demas en la subcarpeta Juego.",
     "files":  [
                   {
                       "path":  "Prince.exe",
-                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.1/Prince.exe",
-                      "sha256":  "427987d8dca861313b3c29568f6378ed81f3a6d780c89ac778ac5fbbe48b5af2",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.2/Prince.exe",
+                      "sha256":  "9b4a5c119f0c0072d14ba8c4a56da46a45f5324b6402b382e56d1772fe274b95",
                       "size":  1035840
                   },
                   {
                       "path":  "RMG-K.exe",
-                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.1/RMG-K.exe",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.2/RMG-K.exe",
                       "sha256":  "f45ac0a8562825fed27c9cafa066ae6f1f3beb4df2c12d0c972336f7869645a6",
                       "size":  6830986
                   },
                   {
                       "path":  "Plugin/Audio/RMG-Audio.dll",
-                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.1/RMG-Audio.dll",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.2/RMG-Audio.dll",
                       "sha256":  "f7b3b92e9017a7d661ae7397462791955f6693597b412d91326cd6f1de420f68",
                       "size":  33840
                   },
                   {
                       "path":  "ssb64asm.z64",
-                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.1/ssb64asm.z64",
+                      "url":  "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.2/ssb64asm.z64",
                       "sha256":  "d3ba94e2cb3cc3770845d6ed42f0e4dab86f35336fc533f6cbd421494b5a59b9",
                       "size":  65536000
                   }
