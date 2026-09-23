@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
-  "notes": "Corrige que un reinicio dejara vidas falsas en 0 y las partidas reales no se registraran despues.",
+  "version": "1.0.9",
+  "notes": "Sala de Team: Listo solo con el equipo completo y menu de invitar siempre visible con el motivo.",
   "files": [
     {
       "path": "Prince.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.7/Prince.exe",
-      "sha256": "4e612b844a3035ede3172fe3b884492c3862eb96356c35e8a6316c246cc81502",
-      "size": 1128288
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.9/Prince.exe",
+      "sha256": "828c524e0bd212068f39558adc752f1ac5b5b0ec796cbb68abdfd573055c86fe",
+      "size": 1129496
     },
     {
       "path": "RMG-K.exe",
