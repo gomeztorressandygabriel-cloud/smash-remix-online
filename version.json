@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "notes": "Prince busca actualizaciones al abrir y las instala solo antes de conectar.",
+  "version": "1.0.8",
+  "notes": "Corrige que un reinicio dejara vidas falsas en 0 y las partidas reales no se registraran despues.",
   "files": [
     {
       "path": "Prince.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "RMG-K.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.6/RMG-K.exe",
-      "sha256": "f23f0edec8cb42563edb5dd63d7666c039dc2a651ab16aeb38eafa83c0daad82",
-      "size": 6850332
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.8/RMG-K.exe",
+      "sha256": "34649b2f91c180d240e5759bf3a77c579df6ab24575413f55c65f7028e036413",
+      "size": 6852380
     },
     {
       "path": "Plugin/Audio/RMG-Audio.dll",
