@@ -1,12 +1,12 @@
 {
-  "version": "1.0.12",
-  "notes": "Niveles de experiencia sin tope: 100 XP por partida y 50 mas por victoria. Nivel junto a cada jugador y amigo, y aviso al subir.",
+  "version": "1.0.13",
+  "notes": "Avisos en el PC de logros, rachas y eventos del dia (primera victoria del dia, rachas, partidas de hoy). Nuevo logro de 100 victorias.",
   "files": [
     {
       "path": "Prince.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.12/Prince.exe",
-      "sha256": "e15ef269759756214733801ca39d9842f36d9e0baa4da98ba8a2d956b85bfd1d",
-      "size": 1336746
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.13/Prince.exe",
+      "sha256": "1a1e7d3869b87332a78a69c1a8fb889a69e1ac4d25461a009542f30fee4737e9",
+      "size": 1393385
     },
     {
       "path": "RMG-K.exe",
