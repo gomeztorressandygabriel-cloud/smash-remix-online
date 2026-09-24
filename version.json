@@ -1,12 +1,12 @@
 {
-  "version": "1.0.10",
-  "notes": "Team rehecho: se arma un par, el companero da Listo y el anfitrion reta a otros equipos armados.",
+  "version": "1.0.11",
+  "notes": "Amigos rehecho con chat privado, Buscar partida, revancha, diagnostico de conexion, asistente de primer uso y estado No molestar.",
   "files": [
     {
       "path": "Prince.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.10/Prince.exe",
-      "sha256": "5c9873c9c0d686fab2f3386504d961677c8951d7f76b08d0ed340fcd85a51b87",
-      "size": 1156318
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-remix-online/releases/download/v1.0.11/Prince.exe",
+      "sha256": "73024e5658ee1eccc9f2454bec489570bd40de51a73478088e15cfe011b9a70b",
+      "size": 1323491
     },
     {
       "path": "RMG-K.exe",
